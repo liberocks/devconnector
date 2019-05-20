@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://ttm:ttm@cluster0-kfitt.gcp.mongodb.net/test"
+  "mongoURI": "",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
 }
